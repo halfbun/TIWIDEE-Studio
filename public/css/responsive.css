@@ -1,0 +1,147 @@
+@media screen and (max-width: 428px) {
+    #contact h2 {
+        font-size: 1rem;
+    }
+
+    #contact p {
+        font-size: 0.8rem;
+        word-wrap: break-word;
+    }
+
+    #about:after {
+        background-size: 100%;
+    }
+
+    .home-caption {
+        min-height: 100vh;
+        height: 100vh;
+    }
+
+    .home-caption h1 {
+        font-size: 5rem;
+    }
+
+    .home-caption h2 {
+        margin-top: -20px;
+        font-size: 1.5rem;
+    }
+
+    .home-logo {
+        visibility: visible;
+    }
+
+    .carousel {
+        width: 400%;
+    }
+
+    .carousel-item {
+        height: 100vh;
+    }
+
+    .card-1 {
+        width: 250px;
+        height: 400px;
+        margin-left: 20px;
+    }
+
+    .card-2 {
+        width: 250px;
+        height: 400px;
+        margin-right: 20px;
+    }
+
+    .card-1-contain {
+        width: 200px;
+        height: 300px;
+        margin-right: 0px;
+        margin-left: -90px;
+        margin-top: 50px;
+    }
+
+    .card-2-contain {
+        width: 200px;
+        height: 300px;
+        margin-right: -90px;
+        margin-left: 0px;
+        margin-top: 50px;
+    }
+
+    .card-1-contain h1 {
+        font-size: 0.8rem;
+    }
+
+    .card-1-contain h2 {
+        font-size: 0.8rem;
+    }
+
+    .card-1-contain p {
+        font-size: 0.6rem;
+    }
+
+    .card-2-contain h1 {
+        font-size: 0.8rem;
+    }
+
+    .card-2-contain h2 {
+        font-size: 0.8rem;
+    }
+
+    .card-2-contain p {
+        font-size: 0.6rem;
+    }
+
+    .panel {
+        flex: 1;
+        height: 300px;
+    }
+
+    .panel:hover {
+        flex: 5;
+    }
+
+    .envelope-square {
+        width: 280px;
+    }
+
+    .envelope-2 {
+        width: 50%;
+    }
+    .envelope-1 {
+        width: 50%;
+    }
+
+    .contact-content {
+        width: 350px;
+    }
+
+    .copyright {
+        text-align: center;
+    }
+
+    .social-col {
+        border: none;
+        display: none;
+    }
+
+    .showcase-desc h4 {
+        text-align: center;
+        margin-left: 0px;
+        font-size: 1rem;
+    }
+
+    .showcase-desc h5 {
+        display: none;
+    }
+
+    #contact {
+        height: 250px;
+    }
+
+    #service {
+        margin-top: 50px;
+    }
+
+    footer h1 {
+        font-size: 3.8rem;
+    }
+}
